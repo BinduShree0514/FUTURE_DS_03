@@ -57,7 +57,7 @@ Conversion is much higher when the employment variation rate is strongly negativ
 
 ![Page 5](DASHBOARD/Screenshots/page5.png)
 
-**Full export:** [Dashboard PDF](DASHBOARD/Future_Interns_TASK_3.pdf)
+**Full export:** [Dashboard PDF](DASHBOARD/Future%20Interns%20TASK%203.pdf)
 
 **Interactive file:** [Power BI Dashboard](DASHBOARD/TASK_3.pbix)
 
